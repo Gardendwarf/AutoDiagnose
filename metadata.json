@@ -1,0 +1,5 @@
+{
+  "name": "AutoDiagnose AI",
+  "description": "AI-powered mechanic troubleshooting assistant that decodes VINs and provides expert diagnostic advice based on vehicle symptoms.",
+  "requestFramePermissions": []
+}
